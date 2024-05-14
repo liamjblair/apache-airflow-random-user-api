@@ -5,7 +5,7 @@
 A simple project running Apache-Airflow within Docker-Compose that grabs 100 random users data from https://randomuser.me/api.
 
 ## Skills/Technologies
-Python / Apache_Airflow / Docker / ETL / Unit Tests / Logging / PostgreSQL / Pandas / SQLAlchemy
+Python / Apache_Airflow / Docker / API / JSON / ETL / Unit Tests / Logging / PostgreSQL / Pandas / SQLAlchemy
 
 ## Installation:
 Clone this repository to your local machine.
