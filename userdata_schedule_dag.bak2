@@ -1,0 +1,66 @@
+
+from datetime import timedelta
+from airflow import DAG
+from airflow.operators.python_operator import PythonOperator
+from datetime import datetime
+import pandas as pd
+import logger
+import requests
+import json
+
+
+def main():
+
+    # class GatherUsers:
+    with open("/usr/local/airflow/output/output.csv", "a", encoding="utf-8") as f:
+
+        if f.tell() == 0:
+            f.write("Gender,FirstName,LastName,Location,Email,Username,DoB,Age,Phone,Nationality\n")
+
+        for i in range(1):
+            person = requests.get('https://randomuser.me/api').text
+            print(person)
+            data = json.loads(person)
+            results = data['results']
+
+            try:
+                for result in results:
+                    f.write(f"{result['gender']},"
+                            f"{result['name']['first']},"
+                            f"{result['name']['last']},"
+                            f"{result['location']['city']},"
+                            f"{result['email']},"
+                            f"{result['login']['username']},"
+                            f"{result['dob']['date']},"
+                            f"{result['dob']['age']},"
+                            f"{result['phone']},"
+                            f"{result['nat']}\n"
+                        )
+                    print("User data successfuly loaded.")
+                    logger.logger.info("User data successfuly loaded.")
+            except Exception as e:
+                print(f"Error: {e}\n {result}\n")
+            
+    f.close()
+
+
+
+with DAG(
+        dag_id="random_user_api",
+        schedule_interval='*/1 * * * *',
+        default_args={
+            "owner": "airflow",
+            "retries": 1,
+            "retry_delay": timedelta(minutes=5),
+            "start_date": datetime(2021, 1, 1),
+        },
+        catchup=False) as f:
+
+    first_function_execute = PythonOperator(
+        task_id="gather_random_user",
+        python_callable=main
+    )
+
+
+
+first_function_execute
