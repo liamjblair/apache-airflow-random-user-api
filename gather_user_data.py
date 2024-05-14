@@ -17,16 +17,16 @@ def main():
 
             try:
                 for result in results:
-                    f.write(f"{result["gender"]},"
-                            f"{result["name"]["first"]},"
-                            f"{result["name"]["last"]},"
-                            f"{result["location"]["city"]},"
-                            f"{result["email"]},"
-                            f"{result["login"]["username"]},"
-                            f"{result["dob"]["date"]},"
-                            f"{result["dob"]["age"]},"
-                            f"{result["phone"]},"
-                            f"{result["nat"]}\n"
+                    f.write(f"{result['gender']},"
+                            f"{result['name']['first']},"
+                            f"{result['name']['last']},"
+                            f"{result['location']['city']},"
+                            f"{result['email']},"
+                            f"{result['login']['username']},"
+                            f"{result['dob']['date']},"
+                            f"{result['dob']['age']},"
+                            f"{result['phone']},"
+                            f"{result['nat']}\n"
                         )
                     print("User data successfuly loaded.")
                     logger.logger.info("User data successfuly loaded.")

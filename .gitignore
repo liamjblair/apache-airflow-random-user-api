@@ -1,3 +1,4 @@
 *.env
-*.bak
+*.bak*
 *.csv
+airflow-data
