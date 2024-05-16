@@ -3,6 +3,8 @@ version: '3.7'
 services:
   postgres:
     image: postgres:9.6
+    env_file:
+      - .env  
     environment:
       - POSTGRES_USER=airflow
       - POSTGRES_PASSWORD=airflow
@@ -27,6 +29,7 @@ services:
     volumes:
       - .:/usr/local/airflow/dags
       - ./output:/usr/local/airflow/output
+      - ./logs:/user/local/airflow/logs
     ports:
       - "8080:8080"
     command: webserver
