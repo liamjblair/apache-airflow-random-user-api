@@ -1,6 +1,7 @@
 from airflow import DAG
 from airflow.operators.python_operator import PythonOperator
 from gather_user_data import main
+# from userdata_test import main
 from datetime import datetime, timedelta
 
 
@@ -15,6 +16,7 @@ dag = DAG (
     dag_id="random_user_api",
     schedule_interval="@daily",
     default_args=dag_args,
+    catchup=False,
     description="random_user_api"
 )
 
