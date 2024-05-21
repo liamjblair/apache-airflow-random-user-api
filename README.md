@@ -2,7 +2,7 @@
 
 ## Overview: 
 
-A simple project running Apache-Airflow within Docker-Compose that grabs random users data from a random user generator API (https://randomuser.me/api), then parses the JSON and ouputs the results to a csv. I then load the data into an AWS S3 bucket.
+A simple project running Apache-Airflow within Docker-Compose that grabs random users data from a random user generator API (https://randomuser.me/api), then parses the JSON and ouputs the results to a csv. Data is then loaded into an AWS S3 bucket.
 
 ## Skills/Technologies
 Python / Apache Airflow / AWS S3 / Docker / API / JSON / ETL / Pandas 
