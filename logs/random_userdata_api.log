@@ -24,3 +24,6 @@
 2024-05-16 11:56:03,958 - Logger - INFO - User data successfuly loaded.
 2024-05-16 11:57:04,129 - Logger - INFO - User data successfuly loaded.
 2024-05-16 11:58:06,864 - Logger - INFO - User data successfuly loaded.
+2024-05-31 12:04:51,768 - Logger - ERROR - Error accessing API HTTPSConnectionPool(host='randomuser.me', port=443): Max retries exceeded with url: /api (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)'))).
+2024-05-31 12:16:20,817 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:16:20,846 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
