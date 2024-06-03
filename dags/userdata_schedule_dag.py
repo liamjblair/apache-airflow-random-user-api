@@ -1,7 +1,6 @@
 from airflow import DAG
 from airflow.operators.python_operator import PythonOperator
 from gather_random_user_data_run import run
-# from userdata_test import main
 from datetime import datetime, timedelta
 
 
