@@ -11,22 +11,22 @@ from datetime import datetime
 
 class RandomUserAPI:
 
-    def __init__(self, aws_access_key_id, aws_secret_access_key, num_users) -> None:
+    def __init__(self, aws_access_key_id, aws_secret_access_key, num_users):
         self.aws_access_key_id = aws_access_key_id
         self.aws_secret_access_key = aws_secret_access_key
         self.num_users = num_users
 
-    def create_output_file(self):
-        # docker_container_path = "/usr/local/airflow/output/"
-        docker_container_path = "./output/"
+    def create_input_file(self):
+        docker_container_path = "/usr/local/airflow/input/"
+        # docker_container_path = "./input/"
         date_time = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
-        self.file_name = f"output_{date_time}.csv"
+        self.file_name = f"input_{date_time}.csv"
         self.file = docker_container_path + self.file_name
 
-    def gather_random_user_date(self):
+    def gather_random_user_data(self):
         with open(self.file, "w", encoding="utf-8") as f:
 
-            f.write("Gender,FirstName,LastName,Location,Email,Username,DoB,DoB_Date,DoB_Time,Age,Phone,StandarisedPhonenumber,Nationality\n")
+            f.write("Gender,FirstName,LastName,Location,Email,Username,DoB,Age,Phone,Nationality\n")
 
             for _ in range(self.num_users):
                 try:
@@ -52,15 +52,19 @@ class RandomUserAPI:
                     f"{result['phone']},"
                     f"{result['nat']}\n"
                 )
+ 
         except Exception as e:
             logger.error(f"Error writing results to output file - {e}")
 
     def data_transformations(self):
-        df = pd.read_csv(self.file)
-
+        df = pd.read_csv(f"./input/{self.file_name}")
+        print(df.head(), '\n')
         # format date of birth
-        df['dob_date'] = df['DoB'].str.extract(r'^(\d{4}-\d{2}-\d{2})')
-        df['dob_time'] = df['DoB'].str.extract(r'(\d{4}:\d{2}:\f{2})')
+        df['DoB_Date'] = df['DoB'].str.extract(r'^(\d{4}-\d{2}-\d{2})')
+        df['DoB_Time'] = df['DoB'].str.extract(r'(\d{2}:\d{2}:\d{2})')
+
+        print(df.head())
+        df ['Phone'] = df['Phone'].astype(str)
 
         # standarise the phones numbers by removing spaces, parentheise and adding country codes
         def standardise_phone_numbers(number, country_code):
@@ -69,7 +73,7 @@ class RandomUserAPI:
                 if phonenumbers.is_valid_number(parsed_number):
                     return phonenumbers.format_number(parsed_number, phonenumbers.PhoneNumberFormat.E164)
                 else:
-                    return number
+                    return "0"
             except phonenumbers.phonenumberutil.NumberParseException as e:
                 logger.error(f"Invalid phone number, unable to parse to a standarised format - {e}")
 
@@ -78,12 +82,12 @@ class RandomUserAPI:
         # assign new column order
         column_order = [
             'FirstName', 'LastName', 'Gender', 'DoB', 'DoB_Date',
-            'DoD_Time', 'Age','Phone', 'StandardisedPhoneNumber',
+            'DoB_Time', 'Age','Phone', 'StandardisedPhoneNumber',
              'Email', 'Username', 'Location', 'Nationality'
         ]
 
         df = df[column_order]
-        df.to_csv(self.file, index=False)
+        df.to_csv(f"./output/{self.file_name}", index=False)
 
     def load_to_s3(self):
         try:

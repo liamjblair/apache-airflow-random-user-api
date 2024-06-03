@@ -27,3 +27,1217 @@
 2024-05-31 12:04:51,768 - Logger - ERROR - Error accessing API HTTPSConnectionPool(host='randomuser.me', port=443): Max retries exceeded with url: /api (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)'))).
 2024-05-31 12:16:20,817 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
 2024-05-31 12:16:20,846 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:49:10,991 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:49:10,991 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:49:10,991 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:49:10,992 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:49:10,992 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:49:10,992 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:49:10,992 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:49:10,992 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:49:10,992 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:49:10,992 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:49:10,992 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:49:10,992 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:49:10,992 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:49:10,992 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:49:10,992 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:49:10,992 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:49:10,992 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:49:10,992 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:49:10,992 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:49:10,992 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:49:10,992 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:49:10,992 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:49:10,992 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:49:10,992 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:49:10,992 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:49:10,992 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:49:10,992 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:49:10,992 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:49:10,992 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:49:10,992 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:49:10,992 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:49:10,992 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:49:10,992 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:49:10,992 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:49:10,992 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:49:10,992 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:49:10,992 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:49:10,993 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:49:10,993 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:49:10,993 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:49:10,993 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:49:10,993 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:49:10,993 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:49:10,993 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:49:10,993 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:49:10,993 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:49:10,993 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:49:10,993 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:49:10,993 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:49:10,993 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:49:10,993 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:49:10,993 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:49:10,993 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:49:10,993 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:49:10,993 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:49:10,993 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:49:10,993 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:49:10,993 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:49:10,994 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:49:10,994 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:49:10,994 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:49:10,994 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:49:10,994 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:49:10,994 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:49:10,994 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:49:10,994 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:49:10,994 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:49:10,994 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:49:10,994 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:49:10,994 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:49:10,994 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:49:10,994 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:49:10,994 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:49:10,994 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:49:10,994 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:49:10,994 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:49:10,994 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:49:10,994 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:49:10,994 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:49:10,994 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:49:10,994 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:49:10,994 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:49:10,994 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:49:10,994 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:49:10,994 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:49:10,994 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:49:10,994 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:49:10,994 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:49:10,994 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:49:10,994 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:49:10,994 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:49:10,994 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:49:10,994 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:49:10,994 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:49:10,994 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:49:10,994 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:49:10,994 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:49:10,994 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:49:10,994 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:49:10,995 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:50:21,749 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:50:21,749 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:50:21,749 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:50:21,749 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:50:21,749 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:50:21,749 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:50:21,749 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:50:21,749 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:50:21,749 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:50:21,749 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:50:21,749 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:50:21,749 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:50:21,749 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:50:21,749 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:50:21,749 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:50:21,749 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:50:21,749 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:50:21,749 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:50:21,749 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:50:21,749 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:50:21,749 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:50:21,749 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:50:21,749 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:50:21,749 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:50:21,749 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:50:21,749 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:50:21,749 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:50:21,749 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:50:21,749 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:50:21,749 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:50:21,749 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:50:21,749 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:50:21,749 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:50:21,749 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:50:21,749 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:50:21,749 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:50:21,749 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:50:21,749 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:50:21,749 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:50:21,749 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:50:21,749 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:50:21,749 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:50:21,749 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:50:21,749 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:50:21,749 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:50:21,749 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:50:21,749 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:50:21,749 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:50:21,749 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:50:21,749 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:50:21,749 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:50:21,749 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:50:21,749 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:50:21,749 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:50:21,749 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:50:21,749 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:50:21,749 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:50:21,749 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:50:21,749 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:50:21,749 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:50:21,749 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:50:21,749 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:50:21,749 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:50:21,749 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:50:21,749 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:50:21,749 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:50:21,749 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:50:21,749 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:50:21,749 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:50:21,749 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:50:21,749 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:50:21,749 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:50:21,749 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:50:21,749 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:50:21,749 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:50:21,749 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:50:21,749 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:50:21,749 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:50:21,749 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:50:21,749 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:50:21,749 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:50:21,749 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:50:21,749 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:50:21,749 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:50:21,749 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:50:21,749 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:50:21,749 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:50:21,749 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:50:21,749 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:50:21,749 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:50:21,749 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:50:21,749 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:50:21,749 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:50:21,749 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:50:21,749 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:50:21,749 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:50:21,749 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:50:21,749 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:50:21,749 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:50:21,749 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:51:47,897 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:51:47,898 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:51:47,898 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:51:47,898 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:51:47,898 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:51:47,898 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:51:47,898 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:51:47,898 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:51:47,898 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:51:47,898 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:51:47,898 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:51:47,898 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:51:47,898 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:51:47,898 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:51:47,898 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:51:47,898 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:51:47,898 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:51:47,898 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:51:47,898 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:51:47,898 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:51:47,898 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:51:47,898 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:51:47,898 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:51:47,898 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:51:47,898 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:51:47,898 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:51:47,898 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:51:47,898 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:51:47,898 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:51:47,898 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:51:47,898 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:51:47,899 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:51:47,899 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:51:47,899 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:51:47,899 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:51:47,899 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:51:47,899 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:51:47,899 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:51:47,899 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:51:47,899 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:51:47,899 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:51:47,899 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:51:47,899 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:51:47,899 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:51:47,899 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:51:47,899 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:51:47,899 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:51:47,899 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:51:47,899 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:51:47,899 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:51:47,899 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:51:47,899 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:51:47,899 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:51:47,899 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:51:47,899 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:51:47,899 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:51:47,899 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:51:47,899 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:51:47,899 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:51:47,899 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:51:47,899 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:51:47,899 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:51:47,899 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:51:47,899 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:51:47,899 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:51:47,899 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:51:47,899 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:51:47,899 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:51:47,899 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:51:47,899 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:51:47,899 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:51:47,899 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:51:47,899 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:51:47,900 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:51:47,900 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:51:47,900 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:51:47,900 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:51:47,900 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:51:47,900 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:51:47,900 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:51:47,900 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:51:47,900 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:51:47,900 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:51:47,900 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:51:47,900 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:51:47,900 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:51:47,900 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:51:47,900 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:51:47,900 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:51:47,900 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:51:47,900 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:51:47,900 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:51:47,900 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:51:47,900 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:51:47,900 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:51:47,900 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:51:47,900 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:51:47,900 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:51:47,900 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-05-31 12:51:47,900 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-02 19:42:42,717 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-02 19:42:42,717 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-02 19:42:42,717 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-02 19:42:42,717 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-02 19:42:42,717 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-02 19:42:42,717 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-02 19:42:42,717 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-02 19:42:42,717 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-02 19:42:42,717 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-02 19:42:42,717 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-02 19:42:42,717 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-02 19:42:42,718 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-02 19:42:42,718 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-02 19:42:42,718 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-02 19:42:42,718 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-02 19:42:42,718 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-02 19:42:42,718 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-02 19:42:42,718 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-02 19:42:42,718 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-02 19:42:42,718 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-02 19:42:42,718 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-02 19:42:42,718 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-02 19:42:42,718 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-02 19:42:42,718 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-02 19:42:42,718 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-02 19:42:42,718 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-02 19:42:42,718 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-02 19:42:42,718 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-02 19:42:42,718 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-02 19:42:42,718 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-02 19:42:42,718 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-02 19:42:42,718 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-02 19:42:42,718 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-02 19:42:42,718 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-02 19:42:42,718 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-02 19:42:42,718 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-02 19:42:42,718 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-02 19:42:42,718 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-02 19:42:42,718 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-02 19:42:42,718 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-02 19:42:42,718 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-02 19:42:42,718 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-02 19:42:42,718 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-02 19:42:42,718 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-02 19:42:42,718 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-02 19:42:42,718 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-02 19:42:42,718 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-02 19:42:42,718 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-02 19:42:42,718 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-02 19:42:42,718 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-02 19:42:42,718 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-02 19:42:42,718 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-02 19:42:42,718 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-02 19:42:42,718 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-02 19:42:42,718 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-02 19:42:42,718 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-02 19:42:42,718 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-02 19:42:42,718 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-02 19:42:42,718 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-02 19:42:42,719 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-02 19:42:42,719 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-02 19:42:42,719 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-02 19:42:42,719 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-02 19:42:42,719 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-02 19:42:42,719 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-02 19:42:42,719 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-02 19:42:42,719 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-02 19:42:42,719 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-02 19:42:42,719 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-02 19:42:42,719 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-02 19:42:42,719 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-02 19:42:42,719 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-02 19:42:42,719 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-02 19:42:42,719 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-02 19:42:42,719 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-02 19:42:42,719 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-02 19:42:42,719 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-02 19:42:42,719 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-02 19:42:42,719 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-02 19:42:42,719 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-02 19:42:42,719 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-02 19:42:42,719 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-02 19:42:42,719 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-02 19:42:42,719 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-02 19:42:42,719 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-02 19:42:42,719 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-02 19:42:42,719 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-02 19:42:42,719 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-02 19:42:42,719 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-02 19:42:42,719 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-02 19:42:42,719 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-02 19:42:42,719 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-02 19:42:42,719 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-02 19:42:42,719 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-02 19:42:42,719 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-02 19:42:42,719 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-02 19:42:42,719 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-02 19:42:42,719 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-02 19:42:42,719 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-02 19:42:42,719 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:49:23,310 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:49:23,311 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:49:23,311 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:49:23,311 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:49:23,311 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:49:23,311 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:49:23,311 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:49:23,311 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:49:23,311 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:49:23,311 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:49:23,311 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:49:23,311 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:49:23,311 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:49:23,311 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:49:23,311 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:49:23,311 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:49:23,311 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:49:23,311 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:49:23,311 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:49:23,311 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:49:23,311 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:49:23,311 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:49:23,311 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:49:23,311 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:49:23,311 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:49:23,311 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:49:23,311 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:49:23,311 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:49:23,311 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:49:23,311 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:49:23,311 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:49:23,311 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:49:23,311 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:49:23,311 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:49:23,311 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:49:23,311 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:49:23,311 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:49:23,311 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:49:23,311 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:49:23,312 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:49:23,312 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:49:23,312 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:49:23,312 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:49:23,312 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:49:23,312 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:49:23,312 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:49:23,312 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:49:23,312 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:49:23,312 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:49:23,312 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:49:23,312 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:49:23,312 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:49:23,312 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:49:23,312 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:49:23,312 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:49:23,312 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:49:23,312 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:49:23,312 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:49:23,312 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:49:23,312 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:49:23,312 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:49:23,312 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:49:23,312 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:49:23,312 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:49:23,312 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:49:23,312 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:49:23,312 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:49:23,312 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:49:23,312 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:49:23,312 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:49:23,312 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:49:23,312 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:49:23,312 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:49:23,312 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:49:23,312 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:49:23,312 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:49:23,312 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:49:23,312 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:49:23,312 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:49:23,312 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:49:23,312 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:49:23,312 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:49:23,312 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:49:23,312 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:49:23,312 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:49:23,312 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:49:23,312 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:49:23,312 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:49:23,312 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:49:23,313 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:49:23,313 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:49:23,313 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:49:23,313 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:49:23,313 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:49:23,313 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:49:23,313 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:49:23,313 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:49:23,313 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:49:23,313 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:49:23,313 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:00:56,974 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:00:56,974 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:00:56,974 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:00:56,974 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:00:56,974 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:00:56,974 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:00:56,974 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:00:56,974 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:00:56,974 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:00:56,974 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:00:56,974 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:00:56,974 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:00:56,974 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:00:56,974 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:00:56,974 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:00:56,974 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:00:56,974 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:00:56,975 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:00:56,975 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:00:56,975 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:00:56,975 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:00:56,975 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:00:56,975 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:00:56,975 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:00:56,975 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:00:56,975 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:00:56,975 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:00:56,975 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:00:56,975 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:00:56,975 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:00:56,975 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:00:56,975 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:00:56,975 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:00:56,975 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:00:56,975 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:00:56,975 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:00:56,975 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:00:56,975 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:00:56,975 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:00:56,975 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:00:56,975 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:00:56,975 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:00:56,975 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:00:56,975 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:00:56,975 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:00:56,975 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:00:56,975 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:00:56,975 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:00:56,975 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:00:56,975 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:00:56,975 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:00:56,975 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:00:56,975 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:00:56,975 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:00:56,975 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:00:56,976 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:00:56,976 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:00:56,976 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:00:56,976 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:00:56,976 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:00:56,976 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:00:56,976 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:00:56,976 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:00:56,976 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:00:56,976 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:00:56,976 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:00:56,976 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:00:56,976 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:00:56,976 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:00:56,976 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:00:56,976 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:00:56,976 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:00:56,976 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:00:56,976 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:00:56,976 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:00:56,976 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:00:56,976 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:00:56,976 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:00:56,976 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:00:56,976 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:00:56,976 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:00:56,976 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:00:56,976 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:00:56,976 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:00:56,976 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:00:56,976 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:00:56,976 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:00:56,976 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:00:56,976 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:00:56,976 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:00:56,976 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:00:56,976 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:00:56,976 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:00:56,976 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:00:56,976 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:00:56,976 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:00:56,977 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:00:56,977 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:00:56,977 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:00:56,977 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:02:35,730 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:02:35,730 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:02:35,730 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:02:35,730 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:02:35,730 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:02:35,730 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:02:35,730 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:02:35,730 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:02:35,730 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:02:35,730 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:02:35,730 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:02:35,730 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:02:35,730 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:02:35,730 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:02:35,730 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:02:35,730 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:02:35,730 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:02:35,730 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:02:35,730 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:02:35,730 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:02:35,731 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:02:35,731 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:02:35,731 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:02:35,731 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:02:35,732 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:02:35,732 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:02:35,732 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:02:35,732 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:02:35,732 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:02:35,732 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:02:35,732 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:02:35,732 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:02:35,732 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:02:35,732 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:02:35,732 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:02:35,732 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:02:35,732 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:02:35,732 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:02:35,732 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:02:35,732 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:02:35,732 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:02:35,732 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:02:35,732 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:02:35,732 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:02:35,732 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:02:35,732 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:02:35,732 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:02:35,732 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:02:35,732 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:02:35,732 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:02:35,732 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:02:35,732 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:02:35,732 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:02:35,732 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:02:35,732 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:02:35,732 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:02:35,732 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:02:35,732 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:02:35,732 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:02:35,732 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:02:35,732 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:02:35,732 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:02:35,732 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:02:35,732 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:02:35,732 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:02:35,732 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:02:35,732 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:02:35,732 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:02:35,732 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:02:35,732 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:02:35,732 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:02:35,732 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:02:35,732 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:02:35,732 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:02:35,732 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:02:35,732 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:02:35,732 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:02:35,732 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:02:35,732 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:02:35,732 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:02:35,732 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:02:35,732 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:02:35,732 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:02:35,732 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:02:35,732 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:02:35,732 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:02:35,732 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:02:35,732 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:02:35,732 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:02:35,732 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:02:35,732 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:02:35,732 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:02:35,732 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:02:35,732 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:02:35,732 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:02:35,732 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:02:35,732 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:02:35,732 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:02:35,732 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:02:35,732 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:06:22,062 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:06:22,064 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:06:22,064 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:06:22,064 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:06:22,064 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:06:22,064 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:06:22,064 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:06:22,064 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:06:22,064 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:06:22,064 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:06:22,064 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:06:22,064 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:06:22,064 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:06:22,064 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:06:22,064 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:06:22,064 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:06:22,064 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:06:22,064 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:06:22,064 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:06:22,064 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:06:22,064 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:06:22,064 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:06:22,064 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:06:22,064 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:06:22,064 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:06:22,064 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:06:22,064 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:06:22,064 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:06:22,064 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:06:22,064 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:06:22,064 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:06:22,064 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:06:22,064 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:06:22,064 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:06:22,064 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:06:22,064 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:06:22,065 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:06:22,065 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:06:22,065 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:06:22,065 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:06:22,065 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:06:22,065 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:06:22,065 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:06:22,065 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:06:22,065 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:06:22,065 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:06:22,065 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:06:22,065 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:06:22,065 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:06:22,065 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:06:22,065 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:06:22,065 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:06:22,065 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:06:22,065 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:06:22,065 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:06:22,065 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:06:22,065 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:06:22,065 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:06:22,065 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:06:22,065 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:06:22,065 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:06:22,065 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:06:22,065 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:06:22,065 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:06:22,065 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:06:22,065 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:06:22,065 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:06:22,065 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:06:22,065 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:06:22,065 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:06:22,065 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:06:22,065 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:06:22,065 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:06:22,065 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:06:22,065 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:06:22,065 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:06:22,065 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:06:22,065 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:06:22,066 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:06:22,066 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:06:22,066 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:06:22,066 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:06:22,066 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:06:22,066 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:06:22,066 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:06:22,066 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:06:22,066 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:06:22,066 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:06:22,066 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:06:22,066 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:06:22,066 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:06:22,066 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:06:22,066 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:06:22,066 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:06:22,066 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:06:22,066 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:06:22,066 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:06:22,066 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:06:22,066 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:06:22,066 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:13:49,173 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:13:49,645 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:13:50,195 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:13:50,742 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:13:51,124 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:13:51,480 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:13:51,832 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:13:52,202 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:13:52,642 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:13:53,208 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:13:53,696 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:13:54,055 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:13:54,809 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:13:55,482 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:13:55,954 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:13:56,503 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:13:56,998 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:13:58,562 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:13:59,237 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:14:00,237 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:14:00,747 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:14:01,171 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:14:01,819 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:14:02,997 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:14:04,821 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:14:06,092 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:14:07,157 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:14:08,602 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:14:10,565 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:14:11,938 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:14:12,815 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:14:13,609 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:14:14,046 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:14:14,587 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:14:15,033 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:14:15,449 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:14:15,864 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:14:16,370 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:14:16,807 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:14:17,228 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:14:17,596 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:14:18,117 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:14:18,483 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:14:18,861 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:14:19,230 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:14:19,604 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:14:19,964 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:14:20,340 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:14:20,892 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:14:21,241 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:14:21,674 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:14:22,166 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:14:22,638 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:14:23,004 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:14:23,366 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:14:23,779 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:14:24,570 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:14:24,992 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:14:25,443 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:14:25,814 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:14:26,630 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:14:26,985 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:14:27,342 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:14:27,689 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:14:28,148 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:14:28,558 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:14:28,920 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:14:29,373 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:14:29,739 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:14:30,090 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:14:30,449 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:14:30,798 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:14:31,166 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:14:31,531 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:14:32,085 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:14:32,495 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:14:32,863 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:14:33,746 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:14:34,313 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:14:34,932 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:14:35,351 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:14:35,748 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:14:36,122 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:14:36,647 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:14:37,682 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:14:38,179 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:14:38,534 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:14:38,929 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:14:39,622 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:14:40,091 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:14:40,474 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:14:40,916 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:14:41,311 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:14:41,705 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:14:42,103 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:14:42,480 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:14:42,904 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:14:43,301 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:14:44,047 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:14:44,431 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:14:44,455 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:14:44,455 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:14:44,455 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:14:44,455 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:14:44,455 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:14:44,455 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:14:44,455 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:14:44,455 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:14:44,455 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:14:44,455 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:14:44,455 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:14:44,455 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:14:44,455 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:14:44,455 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:14:44,455 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:14:44,455 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:14:44,455 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:14:44,455 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:14:44,455 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:14:44,455 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:14:44,455 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:14:44,455 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:14:44,455 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:14:44,455 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:14:44,455 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:14:44,455 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:14:44,455 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:14:44,455 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:14:44,455 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:14:44,456 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:14:44,456 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:14:44,456 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:14:44,456 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:14:44,456 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:14:44,456 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:14:44,456 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:14:44,456 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:14:44,456 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:14:44,456 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:14:44,456 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:14:44,456 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:14:44,456 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:14:44,456 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:14:44,456 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:14:44,456 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:14:44,456 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:14:44,456 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:14:44,456 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:14:44,456 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:14:44,456 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:14:44,456 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:14:44,456 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:14:44,456 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:14:44,456 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:14:44,456 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:14:44,456 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:14:44,456 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:14:44,456 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:14:44,456 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:14:44,456 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:14:44,456 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:14:44,456 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:14:44,456 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:14:44,456 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:14:44,456 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:14:44,456 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:14:44,456 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:14:44,457 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:14:44,457 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:14:44,457 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:14:44,457 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:14:44,457 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:14:44,457 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:14:44,457 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:14:44,457 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:14:44,457 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:14:44,457 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:14:44,457 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:14:44,457 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:14:44,457 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:14:44,457 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:14:44,457 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:14:44,457 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:14:44,457 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:14:44,457 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:14:44,457 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:14:44,457 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:14:44,457 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:14:44,457 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:14:44,457 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:14:44,457 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:14:44,457 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:14:44,457 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:14:44,457 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:14:44,457 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:14:44,457 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:14:44,457 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:14:44,457 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:14:44,457 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:14:44,457 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:15:40,795 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:15:41,147 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:15:41,510 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:15:41,916 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:15:42,292 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:15:42,678 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:15:43,054 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:15:44,294 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:15:45,138 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:15:45,576 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:15:46,101 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:15:46,511 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:15:46,913 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:15:48,075 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:15:48,500 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:15:48,891 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:15:49,257 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:15:49,623 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:15:50,002 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:15:50,374 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:15:50,749 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:15:51,141 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:15:51,669 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:15:52,011 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:15:52,384 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:15:52,924 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:15:53,488 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:15:53,860 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:15:54,227 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:15:54,599 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:15:55,018 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:15:55,418 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:15:56,058 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:15:56,443 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:15:56,833 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:15:57,181 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:15:57,532 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:15:57,943 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:15:58,317 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:15:58,684 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:15:59,057 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:15:59,415 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:15:59,787 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:16:00,136 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:16:00,495 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:16:00,871 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:16:01,262 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:16:01,936 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:16:02,398 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:16:02,766 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:16:03,190 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:16:03,570 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:16:05,403 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:16:06,591 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:16:08,103 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:16:08,813 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:16:09,240 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:16:09,764 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:16:10,143 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:16:10,532 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:16:10,906 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:16:12,104 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:16:12,693 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:16:13,060 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:16:13,558 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:16:13,958 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:16:15,565 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:16:16,170 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:16:16,533 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:16:16,913 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:16:17,277 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:16:17,645 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:16:18,108 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:16:18,516 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:16:18,924 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:16:19,313 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:16:19,675 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:16:20,068 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:16:20,593 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:16:20,941 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:16:21,328 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:16:21,670 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:16:22,051 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:16:22,462 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:16:22,819 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:16:23,171 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:16:23,558 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:16:23,903 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:16:24,260 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:16:24,768 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:16:25,177 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:16:25,550 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:16:25,911 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:16:26,271 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:16:26,634 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:16:26,987 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:16:27,372 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:16:27,739 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:16:28,100 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:16:28,487 - Logger - ERROR - Error writing results to output file - not readable
+2024-06-03 20:28:31,917 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:28:31,927 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:28:31,927 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:28:31,930 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:28:31,930 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:36:34,672 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:36:34,673 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:36:34,673 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:39:52,784 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (0) Country calling code supplied was not recognised.
+2024-06-03 20:39:52,785 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:39:52,788 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:39:52,791 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:39:52,791 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:39:52,794 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:39:52,794 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:42:13,357 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:42:13,377 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:42:13,382 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:42:13,398 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:42:13,398 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:49:34,053 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:49:34,053 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:49:34,078 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:51:39,843 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:51:39,883 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:52:10,512 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:52:10,537 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:52:10,538 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:52:10,544 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:52:10,545 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:52:10,546 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:53:11,125 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:53:11,196 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:53:11,203 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:53:11,209 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:53:11,211 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:53:38,159 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:53:38,188 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:53:38,191 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:53:38,193 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:53:38,199 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:53:42,005 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:53:42,016 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:53:42,017 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:53:42,018 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:53:42,018 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:54:05,291 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:54:05,322 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:54:05,328 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:54:05,336 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (0) Country calling code supplied was not recognised.
+2024-06-03 19:54:05,337 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (0) Country calling code supplied was not recognised.
+2024-06-03 19:54:09,395 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:54:09,396 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:54:45,722 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:54:45,724 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:54:45,724 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (0) Country calling code supplied was not recognised.
+2024-06-03 19:54:45,725 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:54:45,728 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:54:45,729 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:54:45,730 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (0) Country calling code supplied was not recognised.
+2024-06-03 19:54:45,730 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:55:28,793 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:55:28,831 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:55:28,832 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:55:28,840 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:55:28,841 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:55:28,841 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:55:37,607 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:55:37,619 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:55:37,629 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:55:37,631 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:56:17,118 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:56:17,198 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:56:31,759 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (0) Country calling code supplied was not recognised.
+2024-06-03 19:56:31,760 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:56:31,762 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (0) Country calling code supplied was not recognised.
+2024-06-03 19:56:40,021 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:56:40,030 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:56:40,122 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:56:40,123 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:56:40,124 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:56:40,125 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:56:40,128 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:57:08,146 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:57:08,159 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:57:08,164 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:57:08,165 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:57:38,288 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:57:38,366 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (0) Country calling code supplied was not recognised.
+2024-06-03 19:57:38,379 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:57:38,394 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:58:01,024 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:58:24,404 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:58:24,413 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:58:28,323 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:58:28,325 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:59:15,743 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:59:15,744 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:59:15,745 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 19:59:15,753 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:00:34,699 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (0) Country calling code supplied was not recognised.
+2024-06-03 20:00:34,711 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (0) Country calling code supplied was not recognised.
+2024-06-03 20:00:34,722 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:00:34,730 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:00:34,737 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:00:34,739 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:00:58,144 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:00:58,164 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:00:58,166 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:00:58,167 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:00:58,175 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:00:58,184 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:01:27,677 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:01:27,679 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.

@@ -8,9 +8,8 @@ def run():
     num_users = 100
 
     user_data = RandomUserAPI(aws_access_key_id, aws_secret_access_key, num_users)
-    user_data.create_output_file()
-    user_data.gather_random_user_date()
+    user_data.create_input_file()
+    user_data.gather_random_user_data()
     user_data.data_transformations()
     user_data.load_to_s3()
 
-run()
