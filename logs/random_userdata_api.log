@@ -1241,3 +1241,10 @@
 2024-06-03 20:00:58,184 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
 2024-06-03 20:01:27,677 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
 2024-06-03 20:01:27,679 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:23:34,531 - Logger - INFO - DAG running....
+2024-06-03 20:27:54,917 - Logger - INFO - DAG running....
+2024-06-03 20:31:26,256 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:31:26,287 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:31:26,288 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:31:26,290 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
+2024-06-03 20:31:26,294 - Logger - ERROR - Invalid phone number, unable to parse to a standarised format - (1) The string supplied did not seem to be a phone number.
