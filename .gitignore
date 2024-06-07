@@ -1,6 +1,6 @@
 *.env
 *.bak
 *.csv
-*.log
+*.logs
 dev
 airflow-data
