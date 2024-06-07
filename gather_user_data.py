@@ -18,13 +18,13 @@ class RandomUserAPI:
 
     def create_input_file(self):
         docker_container_path = "/usr/local/airflow/input/"
-        # docker_container_path = "./input/"
         date_time = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
         self.file_name = f"input_{date_time}.csv"
         self.file = docker_container_path + self.file_name
+        return self.file
 
     def gather_random_user_data(self):
-        with open(self.file, "w", encoding="utf-8") as f:
+        with open(self.create_input_file(), "w", encoding="utf-8") as f:
 
             f.write("Gender,FirstName,LastName,Location,Email,Username,DoB,Age,Phone,Nationality\n")
 
